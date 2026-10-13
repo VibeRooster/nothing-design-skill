@@ -40,8 +40,8 @@ That's it. Next time you start Claude Code, the skill is available.
 
 The skill applied to a plain weekly ops dashboard (dark mode first, with a light mode toggle). Both links open live pages.
 
-- Before: https://skill-fixture-before.theroost.dev?vr_gallery=1
-- After: https://nothing-design-after.theroost.dev?vr_gallery=1
+- Before: https://skill-fixture-before.theroost.dev
+- After: https://nothing-design-after.theroost.dev
 
 Illustrative, community-contributed example; not an official demo or benchmark.
 
